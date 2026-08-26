@@ -195,6 +195,7 @@ The analyzer also warns:
 This matches Week25’s requirement: avoid overclaiming causation.
 
 # 7. Data Security & Validation
+
 Week25 requires treating analytics as untrusted input.
 
 This project includes:
@@ -209,6 +210,7 @@ This project includes:
 This satisfies Week25’s Product Data Security module.
 
 # 8. Testing Report
+
 See testing_report.md for:
 
 - Valid event tests
@@ -231,3 +233,4 @@ This repository demonstrates the engineering skills required for Week25:
 - Data minimisation & validation
 
 It is fully runnable, fully validated, and ready for submission.
+
