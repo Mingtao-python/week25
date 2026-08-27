@@ -118,7 +118,7 @@ PASS
 Events:
 
 ```
-app_open
+app_open 
 question_submitted
 answer_received
 helpful_marked
