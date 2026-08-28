@@ -1,0 +1,6 @@
+{"event_name": "app_open", "timestamp": 1787851887.4645438, "session_id": "sess_1", "variant": "A", "properties": {"device": "mobile"}}
+{"event_name": "help_button_clicked", "timestamp": 1787851889.4645438, "session_id": "sess_1", "variant": "A"}
+{"event_name": "question_submitted", "timestamp": 1787851892.4645438, "session_id": "sess_1", "variant": "A", "properties": {"subject": "math"}}
+{"event_name": "answer_received", "timestamp": 1787851894.4645438, "session_id": "sess_1", "variant": "A", "properties": {"latency_ms": 2000}}
+{"event_name": "helpful_marked", "timestamp": 1787851902.4645438, "session_id": "sess_1", "variant": "A", "properties": {"rating": 5}}
+{"event_name": "continue_learning_clicked", "timestamp": 1787851907.4645438, "session_id": "sess_1", "variant": "A"}
